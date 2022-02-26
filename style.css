@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(#3d7abf ,#d6a336);
+    text-align: center;
+}
+ h1{
+    color: greenyellow;
+    font-style: italic;
+    font-size: 40px;
+    
+
+}
+#intro h3{
+    color: aquamarine;
+    font-style: italic;
+    font-size: 30px;
+}
+#activity h3{
+    color:cyan;
+    font-size: 25px;
+}
+#activity h2{
+    color: darkblue;
+    font-size: 33px;
+}
+#way p{
+    font-size: 25px;
+    color: aquamarine;
+}
+#way a{
+    font-size: 25px;
+    color: aquamarine ;
+    text-decoration: none;
+}
+#way h3{
+    color: aquamarine;
+    font-size: 25px;
+}
+#way video:hover{
+    width: 700px;
+    
+}
